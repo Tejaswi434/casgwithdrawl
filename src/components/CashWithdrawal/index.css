@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.darkblue {
+  background-color: #150b3e;
+}
+.profile-icon {
+  display: flex;
+  flex-direction: row;
+}
+.s-logo {
+  padding: 10px;
+  border-radius: 2px;
+}
